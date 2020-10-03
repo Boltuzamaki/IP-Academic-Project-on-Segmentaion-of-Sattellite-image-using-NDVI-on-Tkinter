@@ -1,0 +1,1 @@
+# IP-Academic-Project-on-Segmentaion-of-Sattellite-image-using-NDVI-on-Tkinter
